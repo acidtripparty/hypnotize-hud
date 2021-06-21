@@ -1799,7 +1799,7 @@ Scheme
 			"5"
 			{
 				"name"										"Rubik Medium"
-				"tall"										"24"
+				"tall"										"30"
 				"weight"									"700"
 				"yres"										"1200 10000"
 				"dropshadow"								"1"
@@ -1842,7 +1842,7 @@ Scheme
 			"5"
 			{
 				"name"										"Rubik Medium"
-				"tall"										"15"
+				"tall"										"30"
 				"weight"									"700"
 				"yres"										"1200 10000"
 				"dropshadow"								"1"

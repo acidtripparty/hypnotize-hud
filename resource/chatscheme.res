@@ -238,8 +238,8 @@ Scheme
 			"5"
 			{
 				"name"									"Verdana"
-				"tall"									"20"
-				"weight"								"0"
+				"tall"									"35"
+				"weight"								"400"
 				"range"									"0x0000 0x017F"
 				"yres"									"1200 6000"
 				"antialias"								"1"
@@ -380,8 +380,8 @@ Scheme
 			"5"
 			{
 				"name"									"Verdana"
-				"tall"									"22"
-				"weight"								"700"
+				"tall"									"35"
+				"weight"								"400"
 				"yres"									"1200 10000"
 				"dropshadow"							"1"
 			}
@@ -430,8 +430,8 @@ Scheme
 			"5"
 			{
 				"name"									"Verdana"
-				"tall"									"16"
-				"weight"								"0"
+				"tall"									"35"
+				"weight"								"400"
 				"range"									"0x0000 0x017F"
 				"yres"									"1200 6000"
 				"antialias"								"1"
