@@ -1455,16 +1455,16 @@
 		"tall"	 		"f0"
 	}
 
-	HudSpectatorExtras
-	{
-		"fieldName" "HudSpectatorExtras"
-		"visible" "1"
-		"enabled" "1"
-		"xpos"	"0"
-		"ypos"	"0"
-		"wide"	"f0"
-		"tall"	"f0"
-	}
+	// HudSpectatorExtras
+	// {
+	// 	"fieldName" "HudSpectatorExtras"
+	// 	"visible" "1"
+	// 	"enabled" "1"
+	// 	"xpos"	"0"
+	// 	"ypos"	"0"
+	// 	"wide"	"0"
+	// 	"tall"	"0"
+	// }
 
 	MatchSummary
 	{
